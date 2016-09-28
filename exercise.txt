@@ -1,1 +1,2 @@
 git hub exercise 1
+This repo contnes exercise for repozitory
